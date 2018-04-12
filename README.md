@@ -15,3 +15,6 @@ docker pull cashlez/awscli-on-alpine:1.0.0
 ## Versioning
 1.0.0 = alpine 3.7 + python 3.6.5 + awscli 1.15.4
 
+
+## Thanks
+https://hub.docker.com/_/python/
